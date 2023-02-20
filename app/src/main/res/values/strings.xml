@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkWithActivity</string>
+    <string name="ActivityOne">Activity 1</string>
+    <string name="NameEntry">Введите имя</string>
+    <string name="ButtonGo">Go</string>
+    <string name="Fio">Гержа Александр Геннадьевич, гр. 20ИТ-1</string>
+    <string name="ActivityTwo">Activity 2</string>
+    <string name="UserEnter">Вы ввели:</string>
+    <string name="ButtonBack">Back</string>
+</resources>
